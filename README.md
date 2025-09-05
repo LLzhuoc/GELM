@@ -27,7 +27,7 @@ Please make sure the downloaded LLMs are stored in the `backbone` folder.
 * In this section, we will explain how to specifically use our ModuLM framework for training.
 
 ## Data Process
-
+*The data processing method of GTSG in the paper has been provided in dataprocess.
 * We provide dataset processing methods in the dataproces folder, including 2D molecular graph processing and 3D molecular conformation processing. You can choose different processing approaches based on your specific needs e.g..
 
 ```bash
